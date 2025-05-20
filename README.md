@@ -14,7 +14,7 @@ Este projeto fornece uma pipeline automatizada para treinamento de classificador
 - Treinamento completo com parâmetros configuráveis.
 - Saída final no formato `cascade.xml` pronto para uso.
 
-## 🧭 Objetivo
+##  Objetivo
 
 Facilitar o processo de treinamento de classificadores personalizados para detecção de objetos com OpenCV, sem exigir conhecimentos avançados de linha de comando ou scripts fragmentados. Ideal para pesquisadores, estudantes ou profissionais que desejam treinar detectores para objetos específicos como:
 
@@ -26,17 +26,17 @@ Facilitar o processo de treinamento de classificadores personalizados para detec
 
 ---
 
-## 🧰 Funcionalidades
+##  Funcionalidades
 
-- ✅ Anotação assistida (interface GUI via OpenCV)
-- ✅ Geração automática de arquivos `.txt` para positivos e negativos
-- ✅ Criação de arquivos `.vec` com aumento de dados
-- ✅ Treinamento completo via `opencv_traincascade`
-- ✅ Controle de parâmetros por linha de comando
+-  Anotação assistida (interface GUI via OpenCV)
+-  Geração automática de arquivos `.txt` para positivos e negativos
+-  Criação de arquivos `.vec` com aumento de dados
+-  Treinamento completo via `opencv_traincascade`
+-  Controle de parâmetros por linha de comando
 
 ---
 
-## 🏗️ Requisitos
+##  Requisitos
 
 | Recurso                     | Detalhes                                 |
 |----------------------------|------------------------------------------|
@@ -47,7 +47,7 @@ Facilitar o processo de treinamento de classificadores personalizados para detec
 
 ---
 
-## 📁 Estrutura de diretórios
+##  Estrutura de diretórios
 
 ```bash
 .
