@@ -2,7 +2,7 @@
 
 **Versão otimizada – 2025‑05**
 
-Este projeto fornece uma pipeline automatizada para treinamento de classificadores Haar ou LBP utilizando os utilitários `opencv_createsamples` e `opencv_traincascade`. Ideal para quem deseja criar detectores personalizados de objetos com o OpenCV (por exemplo, mouse de computador, logotipos, placas, etc.).
+Este projeto fornece uma pipeline automatizada para treinamento de classificadores Haar ou LBP utilizando os utilitários `opencv_createsamples` e `opencv_traincascade`. Ideal para quem deseja criar detectores personalizados de objetos com o OpenCV.
 
 ---
 
