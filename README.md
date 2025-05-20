@@ -13,3 +13,13 @@ Este projeto fornece uma pipeline automatizada para treinamento de classificador
 - Criação do arquivo `.vec` com aumento de dados.
 - Treinamento completo com parâmetros configuráveis.
 - Saída final no formato `cascade.xml` pronto para uso.
+
+---
+
+## 💡 O que é isso?
+
+Este projeto é um **pipeline completo para treinar detectores de objetos usando OpenCV (Haar ou LBP)**. Basta ter imagens positivas e negativas — o script cuida do resto: anotação, preparação, aumento de dados, criação de `.vec` e treinamento.
+
+Ideal para detectar objetos simples em imagens, como mãos, ferramentas, eletrônicos, etc.
+
+---
