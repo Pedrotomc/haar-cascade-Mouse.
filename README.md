@@ -14,17 +14,6 @@ Este projeto fornece uma pipeline automatizada para treinamento de classificador
 - Treinamento completo com parâmetros configuráveis.
 - Saída final no formato `cascade.xml` pronto para uso.
 
-
-# 📦 Pipeline Automatizado para Treinamento de Classificadores Haar/LBP com OpenCV
-
-Este repositório fornece um **pipeline completo e automatizado** para o treinamento de classificadores em cascata usando as bibliotecas do OpenCV. O processo cobre desde a anotação das amostras positivas até a geração do modelo final `cascade.xml`.
-
-> ✅ Suporte a classificadores `HAAR` e `LBP`  
-> 🧠 Foco em simplicidade, reprodutibilidade e aumento de dados  
-> 🖼️ Interface de anotação manual com `cv2.selectROI`  
-
----
-
 ## 🧭 Objetivo
 
 Facilitar o processo de treinamento de classificadores personalizados para detecção de objetos com OpenCV, sem exigir conhecimentos avançados de linha de comando ou scripts fragmentados. Ideal para pesquisadores, estudantes ou profissionais que desejam treinar detectores para objetos específicos como:
